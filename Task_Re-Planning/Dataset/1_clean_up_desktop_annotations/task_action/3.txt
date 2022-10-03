@@ -1,0 +1,9 @@
+clean up the desktop
+0 0
+4 6
+2 4
+5 6
+3 7
+2 4
+5 7
+1 1
