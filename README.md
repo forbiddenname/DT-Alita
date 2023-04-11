@@ -1,4 +1,4 @@
-# Code for “Alita: A Sensible Digital Twin Framework for Perception, Task-Replanning and Control of Robot-Environment Interaction”
+# Code for “Alita: A Digital Twin System for Task-Replanning and Control of Robot-Environment Interaction”
 
 It involves our previous works—“Multisource model-driven digital twin system of robotic assembly” (published in IEEE systems journal, Doi: 10.1109/JSYST.2019.2958874) and “Semantic Enhanced Digital Twin System for Robot-Environment Interaction Monitoring” (published in IEEE TIM, Doi:10.1109/TIM.2021.3066542)
 
