@@ -1,6 +1,6 @@
-# Code for “Alita: A Digital Twin System for Task-Replanning and Human-Robot Control of Robot Manipulation”
+# Code for “A Digital Twin System for Task-Replanning and Human-Robot Control of Robot Manipulation”
 
-It involves our previous works—“Multisource model-driven digital twin system of robotic assembly” (published in IEEE systems journal, Doi: 10.1109/JSYST.2019.2958874) and “Semantic Enhanced Digital Twin System for Robot-Environment Interaction Monitoring” (published in IEEE TIM, Doi:10.1109/TIM.2021.3066542)
+This paper is published in Advanced Engineering Informatics, Doi：10.1016/j.aei.2024.102570. It involves our previous works—“Multisource model-driven digital twin system of robotic assembly” (published in IEEE systems journal, Doi: 10.1109/JSYST.2019.2958874) and “Semantic Enhanced Digital Twin System for Robot-Environment Interaction Monitoring” (published in IEEE TIM, Doi:10.1109/TIM.2021.3066542)
 
 The REI_DT file mainly introduces how to build the four-layer digital twin model for robot environment interaction, as well as information transmission strategy between physical space and digital space.
 
